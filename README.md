@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/arka1985/arka1985.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can go to my [Github account](https://github.com/arka1985) to view all my repositories
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
