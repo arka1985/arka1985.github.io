@@ -28,10 +28,6 @@ Click [here](mailto:arka.doctor@mail.com) or gmail icon to e-mail me:
 
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Arka14695653)
 
-### Published articles:
-
-[![DOI:10.1049/htl.2016.0096](https://zenodo.org/badge/DOI/10.1049/htl.2016.0096.svg)](https://doi.org/10.1049/htl.2016.0096)
-
 ### Github License:
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
