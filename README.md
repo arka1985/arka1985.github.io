@@ -14,7 +14,7 @@ You can go to my [Github account](https://github.com/arka1985) to view all my re
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arka1985/arka1985.github.io/master)
 
 ### Contact me
-![Image](gmail.png)
+![Image](gmail.png)(mailto:arka.doctor@mail.com)
 
 [Click here to email](mailto:arka.doctor@mail.com)
 
