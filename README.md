@@ -4,7 +4,7 @@
 
 # Current Position:
 
-## Deputy Director (Medical), Group -A Central Civil Services, Ministry of Labour and Employment, Govt. of India
+## Deputy Director (Medical), DGFASLI, Group - A Central Civil Services, Ministry of Labour and Employment, Govt. of India
 
 ## ORCID ID for more information about me:
 
@@ -15,9 +15,6 @@
 You can go to my [Github account](https://github.com/arka1985) to view all my repositories
 
 [![Github Click](https://img.shields.io/badge/Github-Click-blue.svg)](https://github.com/arka1985)
-
-
-
 
 ### Click to launch binder for running the repositories online:
 
