@@ -1,9 +1,8 @@
-## GitHub account
+## Github account
 
 [![Github Click](https://img.shields.io/badge/Github-Click-blue.svg)](https://github.com/arka1985)
 
-
-#You can go to my [Github account](https://github.com/arka1985) to view all my repositories
+You can go to my [Github account](https://github.com/arka1985) to view all my repositories
 
 ### ORCID ID for more information about me
 
@@ -15,6 +14,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arka1985/arka1985.github.io/master)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Arka14695653)
 
 ### My published articles
 
