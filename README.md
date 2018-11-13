@@ -1,11 +1,11 @@
-## Welcome to my GitHub Pages
+## GitHub account
 
 [![Github Click](https://img.shields.io/badge/Github-Click-blue.svg)](https://github.com/arka1985)
 
 
-You can go to my [Github account](https://github.com/arka1985) to view all my repositories
+#You can go to my [Github account](https://github.com/arka1985) to view all my repositories
 
-### Click my ORCID ID for more information about me
+### ORCID ID for more information about me
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-2307-3272" href="https://orcid.org/0000-0003-2307-3272" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-2307-3272</a></div>
 
