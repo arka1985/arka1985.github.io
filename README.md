@@ -1,3 +1,7 @@
+# Education and Training
+
+## MBBS, MD (Gold Medalist), DPH, Dip Geriatric Medicine,CCEBDM, PhD (Research Scholar in Health Informatics)
+
 ### Github:
 
 You can go to my [Github account](https://github.com/arka1985) to view all my repositories
