@@ -13,6 +13,8 @@ You can go to my [Github account](https://github.com/arka1985) to view all my re
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arka1985/arka1985.github.io/master)
 
+[email us](mailto:arka.doctor@mail.com)
+
 ### Twitter Account
 
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Arka14695653)
