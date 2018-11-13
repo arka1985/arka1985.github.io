@@ -1,6 +1,5 @@
 ## Welcome to my GitHub Pages
 
-<iframe src="http://githubbadge.appspot.com/arka1985" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 You can go to my [Github account](https://github.com/arka1985) to view all my repositories
 
