@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-[![Github Click](https://img.shields.io/badge/Github-Click-<Blue>.svg)](https://github/arka1985)
+[![Github Click](https://img.shields.io/badge/Github-Click-<BLUE>.svg)](https://github.com/arka1985)
 
 
 You can go to my [Github account](https://github.com/arka1985) to view all my repositories
