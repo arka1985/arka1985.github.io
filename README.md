@@ -14,6 +14,10 @@ You can go to my [Github account](https://github.com/arka1985) to view all my re
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### My published articles
+
+[![DOI:10.1049/htl.2016.0096](https://zenodo.org/badge/DOI/10.1049/htl.2016.0096.svg)](https://doi.org/10.1049/htl.2016.0096)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
