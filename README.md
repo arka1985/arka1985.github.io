@@ -12,7 +12,7 @@
 
 ### Github:
 
-Go to my [Github account](https://github.com/arka1985) to view all my repositories
+[Github account](https://github.com/arka1985) to view all my repositories
 
 [![Github Click](https://img.shields.io/badge/Github-Click-blue.svg)](https://github.com/arka1985)
 
