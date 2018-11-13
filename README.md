@@ -1,4 +1,4 @@
-## Github account
+### Github
 
 You can go to my [Github account](https://github.com/arka1985) to view all my repositories
 
