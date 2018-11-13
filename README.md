@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-[![Generic badge](https://img.shields.io/badge/<Github>-<link>-<COLOR>.svg)](https://github/arka1985/)
+[![Generic badge](https://img.shields.io/badge/Github-Click-<Blue>.svg)](https://github/arka1985/)
 
 
 You can go to my [Github account](https://github.com/arka1985) to view all my repositories
