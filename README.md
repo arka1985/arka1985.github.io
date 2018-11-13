@@ -12,7 +12,7 @@
 
 ### Github:
 
-You can go to my [Github account](https://github.com/arka1985) to view all my repositories
+Go to my [Github account](https://github.com/arka1985) to view all my repositories
 
 [![Github Click](https://img.shields.io/badge/Github-Click-blue.svg)](https://github.com/arka1985)
 
@@ -20,7 +20,7 @@ You can go to my [Github account](https://github.com/arka1985) to view all my re
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arka1985/arka1985.github.io/master)
 
-Click [here](mailto:arka.doctor@mail.com) or gmail icon to e-mail me:
+### Click [here](mailto:arka.doctor@mail.com) or gmail icon to e-mail me:
 
 [![Image](gmail.png)](mailto:arka.doctor@mail.com)
 
