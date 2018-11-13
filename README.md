@@ -4,7 +4,7 @@
 
 # Current Position:
 
-## Deputy Director (Medical), DGFASLI, Group - A Central Civil Services, Ministry of Labour and Employment, Govt. of India
+## Deputy Director (Medical), DGFASLI, Central Civil Services (Group - A), Ministry of Labour and Employment, Govt. of India
 
 ## ORCID ID for more information about me:
 
