@@ -30,6 +30,10 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Arka14695653)
 
+### Link to Open Government Data Platform
+
+[![data.gov.in](https://img.shields.io/badge/data.gov.in-Click-blue.svg)](https://data.gov.in)
+
 ### Github License:
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
